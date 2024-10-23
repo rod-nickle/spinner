@@ -1,10 +1,3 @@
-/*
-| 0 4 8
-/ 1 5
-- 2 6
-\ 3 7
-
-*/
 // Eight is the number of positions we need to show a line for the spinner for one revolution.
 // NOTE: We will display the vertical line "|" an extra time at the end.
 // There are 4 different lines that we need to show.
